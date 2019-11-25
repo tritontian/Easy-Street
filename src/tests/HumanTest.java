@@ -1,6 +1,4 @@
-/*
- * TCSS 305 - Easy Street
- */
+
 
 package tests;
 
